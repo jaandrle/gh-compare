@@ -1,5 +1,5 @@
 # gh-compare
-GitHub cli extension to quickly navigate to the compare url such as [`HEAD~1...main`](./compare/HEAD~1...main).
+GitHub cli extension to quickly navigate to the compare url such as [`HEAD~1...main`](../../compare/HEAD~1...main).
 
 ℹ️ contributions welcomed
 
