@@ -13,4 +13,4 @@ gh extension install jaandrle/gh-compare
 ```
 
 ## Synopsis
-See [gh-compare (line 6)](./gh-compare#L1).
+See [gh-compare (line 6)](./gh-compare#L6).
